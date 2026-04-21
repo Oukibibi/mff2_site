@@ -10,15 +10,15 @@ function App() {
       <div>
         <nav>
           <Link to="/">Home</Link> |{" "}
-          <Link to="#Stats">Stats</Link> |{" "}
-          <Link to="#Streamers">Streamers</Link>
+          <Link to="/Stats">Stats</Link> |{" "}
+          <Link to="/Streamers">Streamers</Link>
         </nav>
 
         {/* Routes */}
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="#Stats" element={<Stats />} />
-          <Route path="#Streamers" element={<Streamers />} />
+          <Route path="/Stats" element={<Stats />} />
+          <Route path="/Streamers" element={<Streamers />} />
         </Routes>
       </div>
     </BrowserRouter>
