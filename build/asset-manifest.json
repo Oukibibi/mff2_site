@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mff2_site/static/css/main.e6c13ad2.css",
+    "main.js": "/mff2_site/static/js/main.5d040e0e.js",
+    "index.html": "/mff2_site/index.html",
+    "main.e6c13ad2.css.map": "/mff2_site/static/css/main.e6c13ad2.css.map",
+    "main.5d040e0e.js.map": "/mff2_site/static/js/main.5d040e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5d040e0e.js"
+  ]
+}
